@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\awajd\source\repos\Group15_Project\GroupProject\TaskManagerProject\main.c(20,18): warning C4013: 'tolower' undefined; assuming extern returning int
+  taskManager.c
+  Generating Code...
+  TaskManagerProject.vcxproj -> C:\Users\awajd\source\repos\Group15_Project\GroupProject\x64\Debug\TaskManagerProject.exe
